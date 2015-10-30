@@ -13,6 +13,22 @@
 					<key>url</key>
 					<string>http://imhey.com.cn/ios/hey.ipa</string>
 				</dict>
+				<dict>  
+                    			<key>kind</key>  
+                    			<string>full-size-image</string>  
+                    			<key>needs-shine</key>  
+                    			<true/>  
+                    			<key>url</key>  
+                    			<string>http://imhey.com.cn/ios/logo.png</string>  
+                		</dict>  
+                		<dict>  
+                    			<key>kind</key>  
+                    			<string>display-image</string>  
+                    			<key>needs-shine</key>  
+                    			<true/>  
+                    			<key>url</key>  
+                    			<string>http://imhey.com.cn/ios/logo.png</string>  
+                		</dict>  
 			</array>
 			<key>metadata</key>
 			<dict>
