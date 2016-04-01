@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://imhey.com.cn/ios/hey.ipa</string>
+					<string>http://imhey.com.cn/ios/hey-enterprise.ipa</string>
 				</dict>
 				<dict>  
                     			<key>kind</key>  
@@ -19,7 +19,7 @@
                     			<key>needs-shine</key>  
                     			<true/>  
                     			<key>url</key>  
-                    			<string>http://imhey.com.cn/ios/logo.png</string>  
+                    			<string>http://imhey.com.cn/img/heylogo-108.png</string>  
                 		</dict>  
                 		<dict>  
                     			<key>kind</key>  
@@ -27,15 +27,15 @@
                     			<key>needs-shine</key>  
                     			<true/>  
                     			<key>url</key>  
-                    			<string>http://imhey.com.cn/ios/logo.png</string>  
+                    			<string>http://imhey.com.cn/img/heylogo-108.png</string>  
                 		</dict>  
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.listong.hey.enterprise</string>
+				<string>com.listong.hey.enterpriseHey</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>1.2.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
